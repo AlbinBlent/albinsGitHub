@@ -107,7 +107,6 @@ public class MainActivity extends Activity {
 	        }
 	        
 	        return pingTime;
-//	        hej hej git
 	    }
 
 	    @Override
